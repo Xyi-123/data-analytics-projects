@@ -13,7 +13,6 @@ Storage limitations on GitHub: The dataset is too large to be uploaded to this r
 
 # How to Access the Data
 Since our dataset is stored on Google Drive, please follow the method to use it:
-Method: Download via gdown
 You can download the dataset using gdown:
 ```python
 import gdown
